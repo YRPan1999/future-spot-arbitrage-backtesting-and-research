@@ -123,3 +123,9 @@ def analyze_signal_density_by_date(input_file, time_frame=None):
     plt.ylabel('Density')
     plt.gcf().autofmt_xdate()  # Auto-format the x-axis labels for better readability
     plt.show()
+
+def ms_data_future_spot_visualization():
+    """
+    To be determined
+    """
+    return None

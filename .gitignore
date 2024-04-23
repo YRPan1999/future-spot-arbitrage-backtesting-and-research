@@ -5,6 +5,7 @@ spread_data
 trading_signal_duration_data
 future_1s.rar
 SOLUSDT_spot.rar
+SOLUSDT_ms_data
 
 kefei.ipynb
 ms_combine.ipynb
